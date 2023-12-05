@@ -2,3 +2,12 @@
 # yarn lockfile v1
 
 
+typescript@4.9:
+  version "4.9.5"
+  resolved "http://r.npm.sankuai.com/typescript/download/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
+  integrity sha1-CVl5+bzA0J2jJNWNA86Pg3TL5lo=
+
+typescript@^5.0.4:
+  version "5.0.4"
+  resolved "http://r.npm.sankuai.com/typescript/download/typescript-5.0.4.tgz#b217fd20119bd61a94d4011274e0ab369058da3b"
+  integrity sha1-shf9IBGb1hqU1AESdOCrNpBY2js=
